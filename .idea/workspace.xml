@@ -70,7 +70,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build github.com/niiilov/go-rest-api/cmd/apiserver">
+  <component name="RunManager" selected="Go Test.TestAPIServer_HandleHello in github.com/niiilov/go-rest-api/internal/app/apiserver">
     <configuration name="go build github.com/niiilov/go-rest-api/cmd/apiserver" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-rest-api" />
       <working_directory value="$PROJECT_DIR$" />
@@ -105,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build github.com/niiilov/go-rest-api/cmd/apiserver" />
         <item itemvalue="Go Test.TestAPIServer_HandleHello in github.com/niiilov/go-rest-api/internal/app/apiserver" />
+        <item itemvalue="Go Build.go build github.com/niiilov/go-rest-api/cmd/apiserver" />
         <item itemvalue="Go Test.go test github.com/niiilov/go-rest-api/internal/app/apiserver" />
       </list>
     </recent_temporary>
